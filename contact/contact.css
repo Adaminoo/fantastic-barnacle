@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+.middleDiv{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    place-items: center;
+}
+.middleDiv{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+}
